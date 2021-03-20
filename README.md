@@ -13,17 +13,17 @@ Analysis has been done:
 
  	  Please refer to the following link to see the chart where outcomes have been presented
 	  in terms of percentage for different goal groups.
-	  XXXXXX
+	  https://github.com/asitkumar26/kickstarter-challenge/blob/main/resources/Outcomes_vs_Goals.png
 	  
 	- How monthly data of theater category campaign outcomes have been shaped out interms
     	of number of Passed, failed and successful outcomes based on campaign launch date.
 
       Please refer to the following link to see the chart of monthly snapshots of campaign 
 	  outcomes based on launch date.
-	  XXXXXX
+	 https://github.com/asitkumar26/kickstarter-challenge/blob/main/resources/Theater_Outcomes_vs_Launch.png
 	  
 Challenges encountered are as follows:
-
+      To be filled in.
 
 # Results:	  
 	 - 	Conclusions made out of Theater Outcomes by Launch Date
@@ -43,6 +43,7 @@ Challenges encountered are as follows:
 	 
 	 
 	 - Limitation of the dataset
+	      To be filled in.
 	 
 	 
 	 
