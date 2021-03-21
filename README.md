@@ -43,6 +43,7 @@ This data analysis project provides Louis to understand the trend of outcomes of
         2. The campaign analysis of different category/sub-category across different states of the country.
 
 - Reccomendations for additional tables or graphs
-	    1. Country wise outcomes based on goal and launch date.			
-		2. Subcategory wise outcomes based on goal and launch date.
+	    1. Country wise success rates for each category through pie chart.			
+		2. Monthly outcomes(Successful, failed and canceled) through stacked bar chart.
+        3. Box and Whisker plot for find outliers for better analysis.
 	           
