@@ -24,25 +24,25 @@ This data analysis project provides Louis to understand the trend of outcomes of
 
 
 ### Challenges and Difficulties Encountered
-    - Figuring out the kind of chart to derived the insights properly
-    - Derive the conclusion on analysis
+    1. Figuring out the kind of chart to derived the insights properly
+    2. Derive the conclusion on analysis
 
 ## Results
 - 	Conclusions made out of Theater Outcomes by Launch Date
-	      - Maximum number of successful outcomes have been recorded for the Theater campaigns  launched during month of may.		 
-		  - Least campaigns cancelled in July.		 
-		  - Least campaigns failed in November.
+	      1. Maximum number of successful outcomes have been recorded for the Theater campaigns  launched during month of may.		 
+		  2. Least campaigns cancelled in July.		 
+		  3.Least campaigns failed in November.
 
 - Conclusions made out of outcomes based on goal
-	     - Those campaigns who had lesser goal became more successful (Amount pedged was more than goal).		 
-         - None of the campaigns became successful for goal amount range 45000-49999 and all of them became failed. 
+	     1. Those campaigns who had lesser goal became more successful (Amount pedged was more than goal).		 
+         2. None of the campaigns became successful for goal amount range 45000-49999 and all of them became failed. 
 
 - Limitation of the dataset
     Few more insights provided below can not be derived from the available dataset:
-	    - The campaign outcomes of different category/sub-category over the years.
-        - The campaign analysis of different category/sub-category across different states of the country.
+	    1. The campaign outcomes of different category/sub-category over the years.
+        2. The campaign analysis of different category/sub-category across different states of the country.
 
 - Reccomendations for additional tables or graphs
-	    - Country wise outcomes based on goal and launch date.			
-		- Subcategory wise outcomes based on goal and launch date.
+	    1. Country wise outcomes based on goal and launch date.			
+		2. Subcategory wise outcomes based on goal and launch date.
 	           
